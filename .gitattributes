@@ -1,0 +1,1 @@
+MB_Assembly.STEP filter=lfs diff=lfs merge=lfs -text
